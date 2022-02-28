@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The reasons of the House of Commons to stay the Queenes going into Holland. Deliuered to the Lords, at a conference the 14 of Iuly. By John Pym, Esq; deliuered the 15 to his Maiesty; in presence or [sic] both Houses, by my Lord Bankes.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91388</idno>
+            <idno type="STC">Wing P4273</idno>
+            <idno type="STC">Thomason E164_3</idno>
+            <idno type="STC">ESTC R212695</idno>
+            <idno type="EEBO-CITATION">99871280</idno>
+            <idno type="PROQUEST">99871280</idno>
+            <idno type="VID">156952</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91388)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156952)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 29:E164[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The reasons of the House of Commons to stay the Queenes going into Holland. Deliuered to the Lords, at a conference the 14 of Iuly. By John Pym, Esq; deliuered the 15 to his Maiesty; in presence or [sic] both Houses, by my Lord Bankes.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+                  <author>Pym, John, 1584-1643.</author>
+               </titleStmt>
+               <extent>[2], 5-8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed Anno. 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>In this edition line 6 of title reads "stay the Queenes going into".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156952:1" rendition="simple:additions"/>
+            <p> THE REASONS OF THE Houſe of Commons To Stay the QUEENES going into <hi>Holland.</hi> Deliuered to the Lords, at a Conference the 14 of <hi>Iuly.</hi>
+            </p>
+            <p>By <hi>John Pym</hi> Esq;</p>
+            <p>Deliuered the 15 to his Maieſty; in preſence or both Houſes, by my Lord <hi>Bankes.</hi>
+            </p>
+            <figure>
+               <figDesc>fleur-de-lis</figDesc>
+            </figure>
+            <p>Printed Anno. 1641.</p>
+            <pb facs="tcp:156952:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:156952:2"/>
+            <head>The Reaſons of the HOUSE OF COMMONS, To ſtay the <hi>Queenes</hi> going into HOLLAND.</head>
+            <p>THere is great cauſe to doubt, leaſt the Papiſts have ſome deſigne upon her Maieſties Journey, becauſe the Houſe hath been informed that divers of them have ſold off their Lands to a good value, and uſed other means to get ready mony. 2. It is obſerved ſome of them have been very deli<g ref="char:EOLhyphen"/>gent, gathering great quantities of gold. 3. It is informed that more then an ordina<g ref="char:EOLhyphen"/>ry number of Papiſts are gone beyond Sea already, and thoſe of the bettor ſort.</p>
+            <div n="2" type="reason">
+               <pb n="6" facs="tcp:156952:3"/>
+               <head>II.</head>
+               <p>The great number of <hi>Engliſh</hi> fugitives now beyond the Seas, who by their late deſignes and practiſes, are known to be full of malice to the State, and will no doubt ſeeke all op<g ref="char:EOLhyphen"/>portunities of acceſſe to her Majeſty; and as much as they can labour to infuſe into her ſuch evill Councels, as may trouble the peace or the Kingdome, whereof at this time there is more danger, becauſe the affairs of the Kingdome are not yet fully ſettled, and upon diſbanding of the Army, all parts are like to abound with Souldiers, and ſuch others as will be apt to be provoked to tu<g ref="char:EOLhyphen"/>mults, and ſeditions; eſpecially in the time of the Kings abſence in <hi>Scotland.</hi>
+               </p>
+            </div>
+            <div n="3" type="reason">
+               <head>III.</head>
+               <p>That the Houſe of Commons have recei<g ref="char:EOLhyphen"/>ved information of great quantity of Trea<g ref="char:EOLhyphen"/>ſure in Jewels, Plate, and ready Money, packt up to be conveyed away with the Queen, not onely in ſuch a proportion, as the preſent occaſions with due reſpect to her Maieſties honour, may ſeeme to require but a farre greater quantity, and that divers Papiſts and others, under pretence of her Maieſties goods, are like to convey great ſummes of mony, and other Treaſure beyond the Seas,
+<pb n="7" facs="tcp:156952:3"/> which will not onely impoveriſh the State, but may be imployed to the fomenting ſome miſchievous attempts, to the trouble of the publike Peace.</p>
+            </div>
+            <div n="4" type="reason">
+               <head>IV.</head>
+               <p>That as it will bee a great diſhonour to the State, if her Majeſty ſhould not be attended and furniſhed ſuitably to her quality, ſo it will bee a very heavy burden in this time of great neceſſity, and occaſions of other pub<g ref="char:EOLhyphen"/>like charges, if ſhee ſhall be provided in ſo Royall a manner, as ſhall bee fit for her Ma<g ref="char:EOLhyphen"/>jeſty, and the honour of the King and King<g ref="char:EOLhyphen"/>dome.</p>
+            </div>
+            <div n="5" type="reason">
+               <head>V.</head>
+               <p>That becauſe wee underſtand by Sir <hi>Theo<g ref="char:EOLhyphen"/>dore Mayerne,</hi> that the chiefe cauſe of her Majeſties Sickneſſe, and diſtempers, proceed from ſome diſcontent of her minde; the Houſe of Commons have thought good to declare, that if any thing within the power of Parliament may give her maieſty content<g ref="char:EOLhyphen"/>ment, they are ſo tender of her health, both in due reſpect to his moſt Excellent Majeſty, and her ſelfe, that they will be ready to fur<g ref="char:EOLhyphen"/>ther hee ſatisfaction in all things, ſo farre as may ſtand with that publike, to which they are obliged.</p>
+            </div>
+            <div n="6" type="reason">
+               <pb n="8" facs="tcp:156952:4"/>
+               <head>VI.</head>
+               <p>That the Commons conceive it will be ſome diſhonour to this Nation if her Maieſty ſhould at this unſeaſonable time goe out of the Kingdome, upon any grief or diſcontent received here, and therefore we ſhall labour by all good means to take away, and pre<g ref="char:EOLhyphen"/>vent all juſt occaſions of her Maieſties trou<g ref="char:EOLhyphen"/>ble, in ſuch manner, as may further her con<g ref="char:EOLhyphen"/>tent, and therein her health, which will be a very great comfort, and joy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ourſelves, and the reſt of His Maieſties loving Subjects.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
